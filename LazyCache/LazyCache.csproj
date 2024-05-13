@@ -20,6 +20,7 @@
     <PackageTags>Caching Performance Speed In-memory IMemoryCache Generics ServiceCacheing Lazy Cache Lazy-Load MemoryCache CachingService AppCache ApplicationCache Memcached</PackageTags>
     <PackageReleaseNotes>See https://raw.githubusercontent.com/alastairtree/LazyCache/master/ReleaseNotes.md</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
   <ItemGroup>
